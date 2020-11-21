@@ -1,0 +1,13 @@
+C:\Users\ACER\Desktop\Calculadora---Switch-Case\bin\Debug\netcoreapp3.1\Calculadora---Switch-Case.exe
+C:\Users\ACER\Desktop\Calculadora---Switch-Case\bin\Debug\netcoreapp3.1\Calculadora---Switch-Case.deps.json
+C:\Users\ACER\Desktop\Calculadora---Switch-Case\bin\Debug\netcoreapp3.1\Calculadora---Switch-Case.runtimeconfig.json
+C:\Users\ACER\Desktop\Calculadora---Switch-Case\bin\Debug\netcoreapp3.1\Calculadora---Switch-Case.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\Calculadora---Switch-Case\bin\Debug\netcoreapp3.1\Calculadora---Switch-Case.dll
+C:\Users\ACER\Desktop\Calculadora---Switch-Case\bin\Debug\netcoreapp3.1\Calculadora---Switch-Case.pdb
+C:\Users\ACER\Desktop\Calculadora---Switch-Case\obj\Debug\netcoreapp3.1\Calculadora---Switch-Case.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Calculadora---Switch-Case\obj\Debug\netcoreapp3.1\Calculadora---Switch-Case.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Calculadora---Switch-Case\obj\Debug\netcoreapp3.1\Calculadora---Switch-Case.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Calculadora---Switch-Case\obj\Debug\netcoreapp3.1\Calculadora---Switch-Case.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Calculadora---Switch-Case\obj\Debug\netcoreapp3.1\Calculadora---Switch-Case.dll
+C:\Users\ACER\Desktop\Calculadora---Switch-Case\obj\Debug\netcoreapp3.1\Calculadora---Switch-Case.pdb
+C:\Users\ACER\Desktop\Calculadora---Switch-Case\obj\Debug\netcoreapp3.1\Calculadora---Switch-Case.genruntimeconfig.cache
