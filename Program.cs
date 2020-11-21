@@ -24,7 +24,7 @@ namespace Calculadora___Switch_Case
 
             //Switch Case
 
-            switch(operação){
+                switch(operação){
                 case "soma":
                 resultado = num1+num2;
                 break;
